@@ -18,7 +18,7 @@ class _MyAppState extends State<MyApp> {
              TextField(
               decoration: InputDecoration(
                 border: OutlineInputBorder(),
-                hintText: "Enter the Text",
+                hintText: "Enter the Text 1",
               ),
              ),
            RaisedButton(child: Text('Check'),)
